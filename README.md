@@ -13,12 +13,12 @@
 
 ### Tasks
 
-(/) As user, I want to be able to register an account
-(/) As user, I want to be able to login using registered account
-(/) As user, I want to see list of products after login
-(/) As user, I want to be able to add product to cart
-(/) As user, I want to be able to place order for added products in cart
-(/) As user, I want to be able to logout
+(/) As user, I want to be able to register an account </break>
+(/) As user, I want to be able to login using registered account </break>
+(/) As user, I want to see list of products after login </break>
+(/) As user, I want to be able to add product to cart </break>
+(/) As user, I want to be able to place order for added products in cart </break>
+(/) As user, I want to be able to logout </break>
 
 ### Bonus Tasks
 
